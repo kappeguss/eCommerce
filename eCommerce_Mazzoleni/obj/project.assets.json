@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mazzoleni.21198\\source\\repos\\eCommerce_Mazzoleni\\eCommerce_Mazzoleni.csproj",
+      "projectUniqueName": "C:\\Users\\mazzoleni.21198\\Desktop\\eCommerce\\eCommerce_Mazzoleni\\eCommerce_Mazzoleni.csproj",
       "projectName": "eCommerce_Mazzoleni",
-      "projectPath": "C:\\Users\\mazzoleni.21198\\source\\repos\\eCommerce_Mazzoleni\\eCommerce_Mazzoleni.csproj",
+      "projectPath": "C:\\Users\\mazzoleni.21198\\Desktop\\eCommerce\\eCommerce_Mazzoleni\\eCommerce_Mazzoleni.csproj",
       "packagesPath": "C:\\Users\\mazzoleni.21198\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mazzoleni.21198\\source\\repos\\eCommerce_Mazzoleni\\obj\\",
+      "outputPath": "C:\\Users\\mazzoleni.21198\\Desktop\\eCommerce\\eCommerce_Mazzoleni\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
